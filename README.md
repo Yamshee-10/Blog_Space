@@ -7,4 +7,4 @@ Features
 3. Blog Showcase: Features a collection of pre-defined blogs.
 4. Image Integration: Each blog is accompanied by relevant pictures.
 
-Clone the repository: git clone https://github.com/your-username/Blog_Space.git
+Clone the repository: git clone https://github.com/Yamshee-10/Blog_Space.git
